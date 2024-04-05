@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
 <br>
-<h3>screen :computer:</h3>
+<h3>Screen :computer:</h3>
 <img src="https://github.com/mathrusso99/projeto-responsivo-1/blob/main/assets/pc-1.png?raw=true" alt="site-image">
 <br>
-<img>
+<h3>Mobile :iphone:</h3>
+<img src="https://github.com/mathrusso99/projeto-responsivo-1/blob/main/assets/mobile-1.png?raw=true alt="mobile-image">
